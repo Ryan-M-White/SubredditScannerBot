@@ -17,4 +17,4 @@ For right now this bot only runs locally, however you are free to throw it up so
 I am looking into doing that myself and possibly allowing other people to send a message to the bot to "subscribe" to it's services. In the future it may also expand to other subreddits for job postings
 if there is interest, and it could even have customizeable settings for each user. But for now this is all it does, and it gets the job done.
 
-Feel free to Private Message me at /u/RDubz75 or email me at RyanWhite2017@yahoo.com if you're interested in collaborating on this project.
+Feel free to email me at RyanWhite2017@yahoo.com if you're interested in collaborating on this project.
